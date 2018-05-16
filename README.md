@@ -1,3 +1,3 @@
 # smart_products
 ME 5194
-lab 5
+Embedded systems course at Ohio State
